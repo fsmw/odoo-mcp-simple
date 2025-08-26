@@ -1,0 +1,13 @@
+{
+    "odoo": {
+        "url": "https://uft-demo.odoo.com",
+        "database": "uft-demo",
+        "username": "fsanmartinw@uft.edu",
+        "password": "UFT2025."
+    },
+    "mcp": {
+        "name": "odoo-simple-mcp",
+        "version": "1.0.0",
+        "description": "Simple MCP server for Odoo 18"
+    }
+}
